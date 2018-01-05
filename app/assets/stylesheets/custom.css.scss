@@ -17,7 +17,7 @@ h1 {
 }
 
 #logo:hover {
-    color: aquamarine;
+    color: white;
     text-decoration: none;
 }
 
@@ -44,6 +44,11 @@ h1 {
 .btn-xlarge {
     font-size: 1.7em;
     background-color: white;
+}
+
+.article-meta-details {
+    border-top: 1px solid #eaeaea;
+    margin-top: 15px;
 }
 
 .articles-actions {
